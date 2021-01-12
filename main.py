@@ -13,3 +13,5 @@ s = input('Input a string: ')
 word_check(s)
 
 # mod from python.org, https://docs.python.org/3/library/difflib.html
+            
+            print("lol")
